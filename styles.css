@@ -9,6 +9,7 @@ header {
 
 footer {
     border-top: 5px black solid;
+    clear: both;
 }
 .about_app {
     float: left;
@@ -46,8 +47,15 @@ footer {
 .failure_day {
     width: 100px;
     margin: 20px;
+    float: left;
 }
 
 .number_of_days {
     border: 2px black solid;
+}
+
+.button {
+    margin-right: 800px;
+    margin-top: 50px;
+    float: right;
 }
