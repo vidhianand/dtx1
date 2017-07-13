@@ -1,4 +1,4 @@
-
-document.getElementById("dataPost").addEventListener("click", function(){
-    document.getElementById("dataFeed").innerHTML = "Hello World";
+document.getElementById("DataPost").addEventListener("click", function(){
+    
+    document.getElementById("DataFeed").innerHTML = "<h1>Hello World</h1>";
 });
