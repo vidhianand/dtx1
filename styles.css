@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    border-top: 5px black solid;
+}
+.about_app {
+    float: left;
+    width: 350px;
+}
+
+.turbine_select {
+    float: right;
+    width: 350px;
+}
+
+.turbine_info {
+    margin: 10px;
+    border: 2px black solid;
+}
+
+.dashboards {
+     width: 800px;
+     height: 300px;
+     border: 2px black solid;
+     clear: both;
+}
+
+.status {
+     margin-top: 20px;
+     margin-left: 300px;
+     width: 250px;
+     height: 50px;
+     border: 2px black solid;
+     clear: both;
+     text-align: center;
+     align-self: center;
+}
+
+.failure_day {
+    width: 100px;
+    margin: 20px;
+}
+
+.number_of_days {
+    border: 2px black solid;
+}
